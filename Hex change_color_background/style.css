@@ -1,0 +1,20 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+.btn {
+	display: block;
+	border-color: white;
+}
+
+.btn:hover {
+	border-color: white;
+}
+
+h1 {
+	display: block;
+}
