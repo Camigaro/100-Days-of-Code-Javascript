@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.box {
+	height: 300px;
+	width: 500px;
+	background-color: aqua;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn {
+	border-color: white;
+}
+
+.btn:hover {
+	border-color: white;
+}
